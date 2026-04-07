@@ -844,9 +844,9 @@ export default function App() {
                 background: "linear-gradient(135deg, #c7d2fe, #a5b4fc, #818cf8)",
                 WebkitBackgroundClip: "text", WebkitTextFillColor: "transparent",
                 letterSpacing: "-0.02em",
-              }}>Prompt Finder</h1>
+              }}>Pustaka Prompt</h1>
               <p style={{ fontSize: 12, color: "#94a3b8", margin: 0, letterSpacing: "0.05em", textTransform: "uppercase" }}>
-                Koleksi Prompt Akademik & Profesional
+                Koleksi Prompt Akademik & Profesional Siap Pakai
               </p>
             </div>
           </div>
@@ -1032,8 +1032,8 @@ export default function App() {
         {/* ── FOOTER ── */}
         <div style={{ marginTop: 40, textAlign: "center", padding: "20px 0", borderTop: "1px solid rgba(99,102,241,0.1)" }}>
           <p style={{ fontSize: 12, color: "#475569", margin: 0, lineHeight: 1.6 }}>
-            Prompt Finder — Koleksi prompt akademik & profesional
-            <br /><span style={{ color: "#64748b" }}>Built with ⚡ by Bang Dongoran</span>
+            Pustaka Prompt — Koleksi prompt akademik & profesional
+            <br /><span style={{ color: "#64748b" }}>Built with ⚡ by frd77</span>
           </p>
         </div>
       </div>
